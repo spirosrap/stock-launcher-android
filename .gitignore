@@ -1,0 +1,7 @@
+# build output and signing material (the debug keystore lives on the Mac mini)
+.build/
+dist/
+*.apk
+*.idsig
+*.keystore
+*.jks

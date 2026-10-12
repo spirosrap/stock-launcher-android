@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Launcher</string>
+    <string name="hint">Tap “Pixel Launcher” to switch back to the Google home screen</string>
+    <string name="failed">Could not open the Default home app settings</string>
+</resources>
